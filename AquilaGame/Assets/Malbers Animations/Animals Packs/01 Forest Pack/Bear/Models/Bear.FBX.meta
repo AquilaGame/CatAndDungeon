@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 95788e7260b93224e9cfd19cc653a6bc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' L Finger0'
+    100002: ' R Finger0'
+    100004: //RootNode
+    100006: Bear
+    100008: CG
+    100010: Cheek L
+    100012: Cheek R
+    100014: EarL
+    100016: EarR
+    100018: Eye L
+    100020: Eye R
+    100022: Head
+    100024: Jaw
+    100026: L Calf
+    100028: L Clavicle
+    100030: L Foot
+    100032: L Forearm
+    100034: L Hand
+    100036: L Thigh
+    100038: L UpperArm
+    100040: Neck
+    100042: Pelvis
+    100044: R Calf
+    100046: R Clavicle
+    100048: R Foot
+    100050: R Forearm
+    100052: R Hand
+    100054: R Thigh
+    100056: R UpperArm
+    100058: Spine
+    100060: Spine1
+    100062: Spine2
+    100064: Tail
+    100066: Tongue
+    100068: Magic
+    400000: ' L Finger0'
+    400002: ' R Finger0'
+    400004: //RootNode
+    400006: Bear
+    400008: CG
+    400010: Cheek L
+    400012: Cheek R
+    400014: EarL
+    400016: EarR
+    400018: Eye L
+    400020: Eye R
+    400022: Head
+    400024: Jaw
+    400026: L Calf
+    400028: L Clavicle
+    400030: L Foot
+    400032: L Forearm
+    400034: L Hand
+    400036: L Thigh
+    400038: L UpperArm
+    400040: Neck
+    400042: Pelvis
+    400044: R Calf
+    400046: R Clavicle
+    400048: R Foot
+    400050: R Forearm
+    400052: R Hand
+    400054: R Thigh
+    400056: R UpperArm
+    400058: Spine
+    400060: Spine1
+    400062: Spine2
+    400064: Tail
+    400066: Tongue
+    400068: Magic
+    4300000: Bear
+    4300002: Magic
+    9500000: //RootNode
+    13700000: Bear
+    13700002: Magic
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

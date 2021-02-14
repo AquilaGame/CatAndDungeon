@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 2efb3c7f410b9a347abe1202bd798394
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antlers 01
+    100002: Antlers 02
+    100004: Antlers 03
+    100006: Antlers 04
+    100008: Antlers 05
+    100010: CG
+    100012: Deer 003
+    100014: //RootNode
+    100016: Eye L
+    100018: Eye R
+    100020: Head
+    100022: Jaw
+    100024: L Calf
+    100026: L Clavicle
+    100028: L Ear
+    100030: L Finger0
+    100032: L Foot
+    100034: L Forearm
+    100036: L Hand
+    100038: L HorseLink
+    100040: L Thigh
+    100042: L Toe0
+    100044: L UpperArm
+    100046: Magic001
+    100048: Neck
+    100050: Neck1
+    100052: Pelvis
+    100054: R Calf
+    100056: R Clavicle
+    100058: R Ear
+    100060: R Finger0
+    100062: R Foot
+    100064: R Forearm
+    100066: R Hand
+    100068: R HorseLink
+    100070: R Thigh
+    100072: R Toe0
+    100074: R UpperArm
+    100076: Spine
+    100078: Spine1
+    100080: Spine2
+    100082: Spots
+    100084: Tail
+    400000: Antlers 01
+    400002: Antlers 02
+    400004: Antlers 03
+    400006: Antlers 04
+    400008: Antlers 05
+    400010: CG
+    400012: Deer 003
+    400014: //RootNode
+    400016: Eye L
+    400018: Eye R
+    400020: Head
+    400022: Jaw
+    400024: L Calf
+    400026: L Clavicle
+    400028: L Ear
+    400030: L Finger0
+    400032: L Foot
+    400034: L Forearm
+    400036: L Hand
+    400038: L HorseLink
+    400040: L Thigh
+    400042: L Toe0
+    400044: L UpperArm
+    400046: Magic001
+    400048: Neck
+    400050: Neck1
+    400052: Pelvis
+    400054: R Calf
+    400056: R Clavicle
+    400058: R Ear
+    400060: R Finger0
+    400062: R Foot
+    400064: R Forearm
+    400066: R Hand
+    400068: R HorseLink
+    400070: R Thigh
+    400072: R Toe0
+    400074: R UpperArm
+    400076: Spine
+    400078: Spine1
+    400080: Spine2
+    400082: Spots
+    400084: Tail
+    2300000: Antlers 01
+    2300002: Antlers 02
+    2300004: Antlers 03
+    2300006: Antlers 04
+    2300008: Antlers 05
+    3300000: Antlers 01
+    3300002: Antlers 02
+    3300004: Antlers 03
+    3300006: Antlers 04
+    3300008: Antlers 05
+    4300000: Antlers 01
+    4300002: Antlers 03
+    4300004: Antlers 04
+    4300006: Antlers 05
+    4300008: Antlers 02
+    4300010: Deer 003
+    4300012: Spots
+    4300014: Magic001
+    9500000: //RootNode
+    13700000: Deer 003
+    13700002: Magic001
+    13700004: Spots
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

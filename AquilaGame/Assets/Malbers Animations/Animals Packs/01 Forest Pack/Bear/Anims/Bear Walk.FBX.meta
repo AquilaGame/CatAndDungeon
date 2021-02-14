@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: c5d16e80009918746bc43bdf09ea896f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' Footsteps'
+    100002: ' HeadNub'
+    100004: ' L Finger0'
+    100006: ' L Toe0'
+    100008: ' R Finger0'
+    100010: ' R Toe0'
+    100012: Bear
+    100014: //RootNode
+    100016: CG
+    100018: CG Eye LNub
+    100020: CG Eye RNub
+    100022: CG TailNub
+    100024: EarL
+    100026: EarR
+    100028: Eye L
+    100030: Eye R
+    100032: Head
+    100034: Jaw
+    100036: JawNub
+    100038: L Calf
+    100040: L Clavicle
+    100042: L Finger0Nub
+    100044: L Foot
+    100046: L Forearm
+    100048: L Hand
+    100050: L Thigh
+    100052: L Toe0Nub
+    100054: L UpperArm
+    100056: Neck
+    100058: Pelvis
+    100060: Ponytail1Nub
+    100062: Ponytail2Nub
+    100064: R Calf
+    100066: R Clavicle
+    100068: R Finger0Nub
+    100070: R Foot
+    100072: R Forearm
+    100074: R Hand
+    100076: R Thigh
+    100078: R Toe0Nub
+    100080: R UpperArm
+    100082: Sky001
+    100084: Spine
+    100086: Spine1
+    100088: Spine2
+    100090: Tail
+    100092: Z7A1K4
+    100094: Z7A1K4 1
+    100096: Z7A1K4 2
+    100098: Z7A1K4 3
+    100100: Cheek L
+    100102: Cheek R
+    100104: Tongue
+    100106: Root
+    400000: ' Footsteps'
+    400002: ' HeadNub'
+    400004: ' L Finger0'
+    400006: ' L Toe0'
+    400008: ' R Finger0'
+    400010: ' R Toe0'
+    400012: Bear
+    400014: //RootNode
+    400016: CG
+    400018: CG Eye LNub
+    400020: CG Eye RNub
+    400022: CG TailNub
+    400024: EarL
+    400026: EarR
+    400028: Eye L
+    400030: Eye R
+    400032: Head
+    400034: Jaw
+    400036: JawNub
+    400038: L Calf
+    400040: L Clavicle
+    400042: L Finger0Nub
+    400044: L Foot
+    400046: L Forearm
+    400048: L Hand
+    400050: L Thigh
+    400052: L Toe0Nub
+    400054: L UpperArm
+    400056: Neck
+    400058: Pelvis
+    400060: Ponytail1Nub
+    400062: Ponytail2Nub
+    400064: R Calf
+    400066: R Clavicle
+    400068: R Finger0Nub
+    400070: R Foot
+    400072: R Forearm
+    400074: R Hand
+    400076: R Thigh
+    400078: R Toe0Nub
+    400080: R UpperArm
+    400082: Sky001
+    400084: Spine
+    400086: Spine1
+    400088: Spine2
+    400090: Tail
+    400092: Z7A1K4
+    400094: Z7A1K4 1
+    400096: Z7A1K4 2
+    400098: Z7A1K4 3
+    400100: Cheek L
+    400102: Cheek R
+    400104: Tongue
+    400106: Root
+    2100000: ColorDark1
+    2100002: ColorDark
+    2100004: Color
+    2100006: ColorLight
+    2100008: Mouth
+    2100010: Nose
+    2100012: Thieth
+    2100014: Eyes
+    4300000: Bear
+    7400000: Be_Walk
+    7400002: Be_Walk Left
+    7400004: Be_Walk Right
+    9500000: //RootNode
+    10800000: Sky001
+    13700000: Bear
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.25
+    animationPositionError: 0.25
+    animationScaleError: 0.25
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Be_Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Be_Walk Right
+      takeName: Take 001
+      firstFrame: 52
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 20
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Be_Walk Left
+      takeName: Take 001
+      firstFrame: 104
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: -15
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CG
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 95788e7260b93224e9cfd19cc653a6bc,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

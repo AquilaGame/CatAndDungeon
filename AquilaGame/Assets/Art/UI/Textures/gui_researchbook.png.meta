@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 799d9837b1ef0794f84a9debf5cf5b21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7637930644962541550
+    second: gui_researchbook_0
+  - first:
+      213: 8907380051979821997
+    second: gui_researchbook_1
+  - first:
+      213: 3167477119687791818
+    second: gui_researchbook_2
+  - first:
+      213: -3132823783710127564
+    second: gui_researchbook_3
+  - first:
+      213: 9116594282041938199
+    second: gui_researchbook_4
+  - first:
+      213: -6348531740142936358
+    second: gui_researchbook_5
+  - first:
+      213: 9185324658546834241
+    second: gui_researchbook_6
+  - first:
+      213: 5762018979227105111
+    second: gui_researchbook_7
+  - first:
+      213: -79084010543454258
+    second: gui_researchbook_8
+  - first:
+      213: -5748119339244998194
+    second: gui_researchbook_9
+  - first:
+      213: 8167123955018214862
+    second: gui_researchbook_10
+  - first:
+      213: -6600621702134672492
+    second: gui_researchbook_11
+  - first:
+      213: -7292885236561891100
+    second: gui_researchbook_12
+  - first:
+      213: -6708017467352176214
+    second: gui_researchbook_13
+  - first:
+      213: -1564484774980998119
+    second: gui_researchbook_14
+  - first:
+      213: 5536109379043339532
+    second: gui_researchbook_15
+  - first:
+      213: -8304388078768602452
+    second: gui_researchbook_16
+  - first:
+      213: 1533800142648243498
+    second: gui_researchbook_17
+  - first:
+      213: 8067304419614373239
+    second: gui_researchbook_18
+  - first:
+      213: 736046295660216520
+    second: gui_researchbook_19
+  - first:
+      213: -6814603553577560199
+    second: gui_researchbook_20
+  - first:
+      213: 1298267231725760832
+    second: gui_researchbook_21
+  - first:
+      213: 1877566170867891045
+    second: gui_researchbook_22
+  - first:
+      213: -7319084954820947705
+    second: gui_researchbook_0
+  - first:
+      213: -8104092887212380794
+    second: gui_researchbook_1
+  - first:
+      213: -493442928744563953
+    second: gui_researchbook_2
+  - first:
+      213: 3623852362883472658
+    second: gui_researchbook_3
+  - first:
+      213: -5085720910044353743
+    second: gui_researchbook_4
+  - first:
+      213: -5925870061805149900
+    second: gui_researchbook_5
+  - first:
+      213: -9126495533290686065
+    second: gui_researchbook_6
+  - first:
+      213: 3124474385607612975
+    second: gui_researchbook_7
+  - first:
+      213: 6478543544014809182
+    second: gui_researchbook_8
+  - first:
+      213: 8164988948050208226
+    second: gui_researchbook_9
+  - first:
+      213: 2640443361768694098
+    second: gui_researchbook_10
+  - first:
+      213: -5859578127206629148
+    second: gui_researchbook_11
+  - first:
+      213: -6016709238502292289
+    second: gui_researchbook_12
+  - first:
+      213: 2088403487392127593
+    second: gui_researchbook_13
+  - first:
+      213: 5964491400425059813
+    second: gui_researchbook_14
+  - first:
+      213: -8806397525381014542
+    second: gui_researchbook_15
+  - first:
+      213: 2420976847205756905
+    second: gui_researchbook_16
+  - first:
+      213: 3667783984094489808
+    second: gui_researchbook_17
+  - first:
+      213: 6145471953681214057
+    second: gui_researchbook_18
+  - first:
+      213: -4081158941133685030
+    second: gui_researchbook_19
+  - first:
+      213: 1579161121269595594
+    second: gui_researchbook_20
+  - first:
+      213: -6568814794866568586
+    second: gui_researchbook_21
+  - first:
+      213: 3352615855932138508
+    second: gui_researchbook_22
+  - first:
+      213: 1708026848744666535
+    second: gui_researchbook_23
+  - first:
+      213: -561413122093596893
+    second: gui_researchbook_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_researchbook_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 504
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ddf203036d6a90800000000000000
+      internalID: -7319084954820947705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dafe6d47a788f80800000000000000
+      internalID: -8104092887212380794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 137
+        width: 86
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b704b4540f629f0800000000000000
+      internalID: -493442928744563953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d112826828a4230800000000000000
+      internalID: 3623852362883472658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 86
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba70217c3eb69b0800000000000000
+      internalID: -5085720910044353743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 117
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316bfc439413cda0800000000000000
+      internalID: -5925870061805149900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 121
+        width: 134
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f40eaaac285180800000000000000
+      internalID: -9126495533290686065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 124
+        width: 82
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad2f746ec5c5b20800000000000000
+      internalID: 3124474385607612975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5827ea470968e950800000000000000
+      internalID: 6478543544014809182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 78
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5e583303edf4170800000000000000
+      internalID: 8164988948050208226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e2c37f3db4a420800000000000000
+      internalID: 2640443361768694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 92
+        width: 82
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0433a1db89eaea0800000000000000
+      internalID: -5859578127206629148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4824253da508ca0800000000000000
+      internalID: -6016709238502292289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 48
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad1bd28ef7bfc10800000000000000
+      internalID: 2088403487392127593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e53534d35126c250800000000000000
+      internalID: 5964491400425059813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb19c4eb1469c580800000000000000
+      internalID: -8806397525381014542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 60
+        width: 82
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efe42b9d99099120800000000000000
+      internalID: 2420976847205756905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dca1dcc91696e230800000000000000
+      internalID: 3667783984094489808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6b488e2a194550800000000000000
+      internalID: 6145471953681214057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade31d1e09fcc57c0800000000000000
+      internalID: -4081158941133685030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 17
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb16c4cae4ae510800000000000000
+      internalID: 1579161121269595594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 20
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672d5a44fb1e6d4a0800000000000000
+      internalID: -6568814794866568586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 28
+        width: 82
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c046d29ab52e68e20800000000000000
+      internalID: 3352615855932138508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a571429e5124b710800000000000000
+      internalID: 1708026848744666535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_researchbook_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 131
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3e5d6db57538f0800000000000000
+      internalID: -561413122093596893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 02dce5226155414468f0beba8ccb43f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

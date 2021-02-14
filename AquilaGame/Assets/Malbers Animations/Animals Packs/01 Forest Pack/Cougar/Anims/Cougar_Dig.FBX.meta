@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: c78b428840e2f264db4fa26552504bbb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CG
+    100002: Ear L
+    100004: Ear R
+    100006: //RootNode
+    100008: Head
+    100010: Jaw
+    100012: L Calf
+    100014: L Clavicle
+    100016: L Finger0
+    100018: L Foot
+    100020: L Forearm
+    100022: L Hand
+    100024: L HorseLink
+    100026: L Thigh
+    100028: L Toe0
+    100030: L UpperArm
+    100032: Neck
+    100034: Neck1
+    100036: Neck2
+    100038: Pelvis
+    100040: R Calf
+    100042: R Clavicle
+    100044: R Finger0
+    100046: R Foot
+    100048: R Forearm
+    100050: R Hand
+    100052: R HorseLink
+    100054: R Thigh
+    100056: R Toe0
+    100058: R UpperArm
+    100060: Root
+    100062: Spine
+    100064: Spine1
+    100066: Spine2
+    100068: Tail01
+    100070: Tail02
+    100072: Tail03
+    100074: Tail04
+    100076: Tail05
+    100078: ' L Toe0'
+    100080: ' R Toe0'
+    100082: Cheek L
+    100084: Cheek R
+    100086: Eye L
+    100088: Eye R
+    100090: Tail
+    100092: Tail1
+    100094: Tail2
+    100096: Tail3
+    100098: Tail4
+    100100: Tail5
+    100102: Z7A1K5
+    100104: Z7A1K5 1
+    100106: Z7A1K5 2
+    100108: Z7A1K5 3
+    100110: Z7A1K5 4
+    100112: Z7A1K5 5
+    100114: Z7A1K5 6
+    100116: Z7A1K5 7
+    100118: Z7A1K5 8
+    100120: Z7A1K5 9
+    100122: Cougar
+    100124: Tongue
+    400000: CG
+    400002: Ear L
+    400004: Ear R
+    400006: //RootNode
+    400008: Head
+    400010: Jaw
+    400012: L Calf
+    400014: L Clavicle
+    400016: L Finger0
+    400018: L Foot
+    400020: L Forearm
+    400022: L Hand
+    400024: L HorseLink
+    400026: L Thigh
+    400028: L Toe0
+    400030: L UpperArm
+    400032: Neck
+    400034: Neck1
+    400036: Neck2
+    400038: Pelvis
+    400040: R Calf
+    400042: R Clavicle
+    400044: R Finger0
+    400046: R Foot
+    400048: R Forearm
+    400050: R Hand
+    400052: R HorseLink
+    400054: R Thigh
+    400056: R Toe0
+    400058: R UpperArm
+    400060: Root
+    400062: Spine
+    400064: Spine1
+    400066: Spine2
+    400068: Tail01
+    400070: Tail02
+    400072: Tail03
+    400074: Tail04
+    400076: Tail05
+    400078: ' L Toe0'
+    400080: ' R Toe0'
+    400082: Cheek L
+    400084: Cheek R
+    400086: Eye L
+    400088: Eye R
+    400090: Tail
+    400092: Tail1
+    400094: Tail2
+    400096: Tail3
+    400098: Tail4
+    400100: Tail5
+    400102: Z7A1K5
+    400104: Z7A1K5 1
+    400106: Z7A1K5 2
+    400108: Z7A1K5 3
+    400110: Z7A1K5 4
+    400112: Z7A1K5 5
+    400114: Z7A1K5 6
+    400116: Z7A1K5 7
+    400118: Z7A1K5 8
+    400120: Z7A1K5 9
+    400122: Cougar
+    400124: Tongue
+    7400000: Cougar_Dig
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.3
+    animationPositionError: 0.3
+    animationScaleError: 0.3
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cougar_Dig
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 76
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 1
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5462942cab7eb4e47ad795a859f4b825,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

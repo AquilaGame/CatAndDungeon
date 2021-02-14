@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3846084520658147212
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KingdomMat
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_ShaderKeywords: _ENVIRONMENTREFLECTIONS_OFF
+  m_LightmapFlags: 6
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: e599ad2d07d640a49945ec695caacac0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e599ad2d07d640a49945ec695caacac0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_01:
+        m_Texture: {fileID: 2800000, guid: 4d2aa66f9d16bf644aeced5c66a39109, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_02:
+        m_Texture: {fileID: 2800000, guid: f8e518b469cb2bd4c92100e04b7d4ab3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_03:
+        m_Texture: {fileID: 2800000, guid: 83c8563e287501f4997504c772dd2387, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_04:
+        m_Texture: {fileID: 2800000, guid: 49123ea06040fdb4e86c6fb0b4288c09, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_05:
+        m_Texture: {fileID: 2800000, guid: 24b7fe3ac6774f445a118f057e3eaaae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Primary:
+        m_Texture: {fileID: 2800000, guid: 0cbc66454a3a56244affa05554162bac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Secondary:
+        m_Texture: {fileID: 2800000, guid: a3f6d4c76177b704299c630a6bf515f1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 7dd0476daa9e82447856b542d1d238eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 7dd0476daa9e82447856b542d1d238eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSpec:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Base_Primary:
+        m_Texture: {fileID: 2800000, guid: ebf19c917bd322643a829ec6095a2178, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Base_Secondary:
+        m_Texture: {fileID: 2800000, guid: f65b920b34d4fc248a504cef1ed177d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_BodyArt:
+        m_Texture: {fileID: 2800000, guid: b5c72be73bd8cad4394ec40cc22be615, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Color_Metal_Dark:
+        m_Texture: {fileID: 2800000, guid: 91094db90fa56c74c8a1d41d52b2e566, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Color_Metal_Primary:
+        m_Texture: {fileID: 2800000, guid: 8c6f956b63336ae44ad322451df5a7a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Hair:
+        m_Texture: {fileID: 2800000, guid: 724afb924514bc14d9d8fcc045e8ed4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Metal_Secondary:
+        m_Texture: {fileID: 2800000, guid: 59d30079bf12f254dbd2470a093f97a6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Scar:
+        m_Texture: {fileID: 2800000, guid: 8a1bc2c7e543a3545a87c5593e1bf765, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Skin:
+        m_Texture: {fileID: 2800000, guid: 9bf5625bb4be4ec4e9a0bcc009d10ab4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Stubble:
+        m_Texture: {fileID: 2800000, guid: daa5c40d542aa5b47b3583b6285941ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Tattoo:
+        m_Texture: {fileID: 2800000, guid: b5c72be73bd8cad4394ec40cc22be615, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_Tertiary:
+        m_Texture: {fileID: 2800000, guid: 1830e5fa430137f4185002ea358266a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BodyArt_Amount: 0.7417097
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Emission: 0
+    - _EnvironmentReflections: 0
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0.2
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.2
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _Tattoo_Amount: 1
+    - _UVSec: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 0.2283196, g: 0.5822246, b: 0.7573529, a: 1}
+    - _Color_BodyArt: {r: 0.050980397, g: 0.6745098, b: 0.9843138, a: 0}
+    - _Color_Eyes: {r: 0, g: 0, b: 0, a: 1}
+    - _Color_Hair: {r: 0.1764706, g: 0.16862746, b: 0.16862746, a: 0}
+    - _Color_Leather_Primary: {r: 0.30882353, g: 0.21390574, b: 0.1589533, a: 0}
+    - _Color_Leather_Secondary: {r: 0.372549, g: 0.3294118, b: 0.2784314, a: 0}
+    - _Color_Metal_Dark: {r: 0.1660359, g: 0.21904722, b: 0.27205884, a: 0}
+    - _Color_Metal_Primary: {r: 0.5568628, g: 0.59607846, b: 0.6392157, a: 0}
+    - _Color_Metal_Secondary: {r: 0.4784314, g: 0.5176471, b: 0.54509807, a: 0}
+    - _Color_Primary: {r: 0.5921569, g: 0.49411768, b: 0.25882354, a: 0}
+    - _Color_Scar: {r: 0.69803923, g: 0.54509807, b: 0.40000004, a: 0}
+    - _Color_Secondary: {r: 0.7019608, g: 0.62352943, b: 0.4666667, a: 0}
+    - _Color_Skin: {r: 0.8196079, g: 0.63529414, b: 0.45882356, a: 0}
+    - _Color_Stubble: {r: 0.65882355, g: 0.57254905, b: 0.46274513, a: 0}
+    - _Color_Tertiary: {r: 0.7352941, g: 0.20004326, b: 0.20004326, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,470 @@
+//BUFF_0: 燃烧
+public class BUFF_0 : Buff
+{
+    public BUFF_0(CharacterScript cs, int time, float val) : base(0, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_1: 冰冻
+public class BUFF_1 : Buff
+{
+    public BUFF_1(CharacterScript cs, int time, float val) : base(1, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_2: 禁锢
+public class BUFF_2 : Buff
+{
+    public BUFF_2(CharacterScript cs, int time, float val) : base(2, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_3: 晕眩
+public class BUFF_3 : Buff
+{
+    public BUFF_3(CharacterScript cs, int time, float val) : base(3, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_4: 死灵
+public class BUFF_4 : Buff
+{
+    public BUFF_4(CharacterScript cs, int time, float val) : base(4, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_5: 潜行
+public class BUFF_5 : Buff
+{
+    public BUFF_5(CharacterScript cs, int time, float val) : base(5, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_6: 晕眩
+public class BUFF_6 : Buff
+{
+    public BUFF_6(CharacterScript cs, int time, float val) : base(6, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_7: 沉默
+public class BUFF_7 : Buff
+{
+    public BUFF_7(CharacterScript cs, int time, float val) : base(7, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_8: 麻木
+public class BUFF_8 : Buff
+{
+    public BUFF_8(CharacterScript cs, int time, float val) : base(8, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_9: 混乱
+public class BUFF_9 : Buff
+{
+    public BUFF_9(CharacterScript cs, int time, float val) : base(9, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_10: 神佑
+public class BUFF_10 : Buff
+{
+    public BUFF_10(CharacterScript cs, int time, float val) : base(10, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_11: 目盲
+public class BUFF_11 : Buff
+{
+    public BUFF_11(CharacterScript cs, int time, float val) : base(11, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_12: 狂暴
+public class BUFF_12 : Buff
+{
+    public BUFF_12(CharacterScript cs, int time, float val) : base(12, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_13: 凋零
+public class BUFF_13 : Buff
+{
+    public BUFF_13(CharacterScript cs, int time, float val) : base(13, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_14: 禁足
+public class BUFF_14 : Buff
+{
+    public BUFF_14(CharacterScript cs, int time, float val) : base(14, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_15: 魅惑
+public class BUFF_15 : Buff
+{
+    public BUFF_15(CharacterScript cs, int time, float val) : base(15, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_16: 火焰结界
+public class BUFF_16 : Buff
+{
+    public BUFF_16(CharacterScript cs, int time, float val) : base(16, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_17: 火焰缭绕
+public class BUFF_17 : Buff
+{
+    public BUFF_17(CharacterScript cs, int time, float val) : base(17, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_18: 清洗伤口
+public class BUFF_18 : Buff
+{
+    public BUFF_18(CharacterScript cs, int time, float val) : base(18, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_19: 魔法屏障
+public class BUFF_19 : Buff
+{
+    public BUFF_19(CharacterScript cs, int time, float val) : base(19, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_20: 风之轻灵
+public class BUFF_20 : Buff
+{
+    public BUFF_20(CharacterScript cs, int time, float val) : base(20, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_21: 羽落术
+public class BUFF_21 : Buff
+{
+    public BUFF_21(CharacterScript cs, int time, float val) : base(21, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_22: 多重攻击
+public class BUFF_22 : Buff
+{
+    public BUFF_22(CharacterScript cs, int time, float val) : base(22, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_23: 牛之蛮力
+public class BUFF_23 : Buff
+{
+    public BUFF_23(CharacterScript cs, int time, float val) : base(23, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_24: 熊之坚韧
+public class BUFF_24 : Buff
+{
+    public BUFF_24(CharacterScript cs, int time, float val) : base(24, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_25: 追猎印记
+public class BUFF_25 : Buff
+{
+    public BUFF_25(CharacterScript cs, int time, float val) : base(25, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_26: 防护邪恶
+public class BUFF_26 : Buff
+{
+    public BUFF_26(CharacterScript cs, int time, float val) : base(26, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_27: 防护善良
+public class BUFF_27 : Buff
+{
+    public BUFF_27(CharacterScript cs, int time, float val) : base(27, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_28: 遭受审判
+public class BUFF_28 : Buff
+{
+    public BUFF_28(CharacterScript cs, int time, float val) : base(28, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_29: 律令随行
+public class BUFF_29 : Buff
+{
+    public BUFF_29(CharacterScript cs, int time, float val) : base(29, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_30: 神圣领域
+public class BUFF_30 : Buff
+{
+    public BUFF_30(CharacterScript cs, int time, float val) : base(30, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_31: 灵魂链接
+public class BUFF_31 : Buff
+{
+    public BUFF_31(CharacterScript cs, int time, float val) : base(31, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_32: 力量祝福
+public class BUFF_32 : Buff
+{
+    public BUFF_32(CharacterScript cs, int time, float val) : base(32, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_33: 神圣护甲
+public class BUFF_33 : Buff
+{
+    public BUFF_33(CharacterScript cs, int time, float val) : base(33, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_34: 暗夜薄纱
+public class BUFF_34 : Buff
+{
+    public BUFF_34(CharacterScript cs, int time, float val) : base(34, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_35: 暗影形体
+public class BUFF_35 : Buff
+{
+    public BUFF_35(CharacterScript cs, int time, float val) : base(35, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_36: 黑暗根须
+public class BUFF_36 : Buff
+{
+    public BUFF_36(CharacterScript cs, int time, float val) : base(36, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_37: 生命祝福
+public class BUFF_37 : Buff
+{
+    public BUFF_37(CharacterScript cs, int time, float val) : base(37, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_38: 骨甲
+public class BUFF_38 : Buff
+{
+    public BUFF_38(CharacterScript cs, int time, float val) : base(38, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_39: 法力护甲
+public class BUFF_39 : Buff
+{
+    public BUFF_39(CharacterScript cs, int time, float val) : base(39, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_40: 好梦
+public class BUFF_40 : Buff
+{
+    public BUFF_40(CharacterScript cs, int time, float val) : base(40, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_41: 噩梦
+public class BUFF_41 : Buff
+{
+    public BUFF_41(CharacterScript cs, int time, float val) : base(41, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_42: 灵吸之梦
+public class BUFF_42 : Buff
+{
+    public BUFF_42(CharacterScript cs, int time, float val) : base(42, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_43: 巨龙之梦
+public class BUFF_43 : Buff
+{
+    public BUFF_43(CharacterScript cs, int time, float val) : base(43, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_44: 异变之种
+public class BUFF_44 : Buff
+{
+    public BUFF_44(CharacterScript cs, int time, float val) : base(44, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_45: 碎甲
+public class BUFF_45 : Buff
+{
+    public BUFF_45(CharacterScript cs, int time, float val) : base(45, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+
+//BUFF_46: 恐惧邪能
+public class BUFF_46 : Buff
+{
+    public BUFF_46(CharacterScript cs, int time, float val) : base(46, cs, time, val) { }
+    public override string Info()
+    {
+    return "";
+    }
+}
+

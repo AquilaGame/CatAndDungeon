@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: beea365878220d54ab0f7a23cb77eac2
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: CG
+  - first:
+      1: 100002
+    second: Eye L
+  - first:
+      1: 100004
+    second: Eye R
+  - first:
+      1: 100006
+    second: //RootNode
+  - first:
+      1: 100008
+    second: Footsteps
+  - first:
+      1: 100010
+    second: Head
+  - first:
+      1: 100012
+    second: HeadNub
+  - first:
+      1: 100014
+    second: Jaw
+  - first:
+      1: 100016
+    second: JawNub
+  - first:
+      1: 100018
+    second: L Calf
+  - first:
+      1: 100020
+    second: L Clavicle
+  - first:
+      1: 100022
+    second: L Finger0
+  - first:
+      1: 100024
+    second: L Finger0Nub
+  - first:
+      1: 100026
+    second: L Foot
+  - first:
+      1: 100028
+    second: L Forearm
+  - first:
+      1: 100030
+    second: L Hand
+  - first:
+      1: 100032
+    second: L HorseLink
+  - first:
+      1: 100034
+    second: L Thigh
+  - first:
+      1: 100036
+    second: L Toe0
+  - first:
+      1: 100038
+    second: L Toe0Nub
+  - first:
+      1: 100040
+    second: L UpperArm
+  - first:
+      1: 100042
+    second: Neck
+  - first:
+      1: 100044
+    second: Pelvis
+  - first:
+      1: 100046
+    second: Ponytail1
+  - first:
+      1: 100048
+    second: Ponytail1Nub
+  - first:
+      1: 100050
+    second: Ponytail2
+  - first:
+      1: 100052
+    second: Ponytail2Nub
+  - first:
+      1: 100054
+    second: R Calf
+  - first:
+      1: 100056
+    second: R Clavicle
+  - first:
+      1: 100058
+    second: R Finger0
+  - first:
+      1: 100060
+    second: R Finger0Nub
+  - first:
+      1: 100062
+    second: R Foot
+  - first:
+      1: 100064
+    second: R Forearm
+  - first:
+      1: 100066
+    second: R Hand
+  - first:
+      1: 100068
+    second: R HorseLink
+  - first:
+      1: 100070
+    second: R Thigh
+  - first:
+      1: 100072
+    second: R Toe0
+  - first:
+      1: 100074
+    second: R Toe0Nub
+  - first:
+      1: 100076
+    second: R UpperArm
+  - first:
+      1: 100078
+    second: Spine
+  - first:
+      1: 100080
+    second: Spine1
+  - first:
+      1: 100082
+    second: Spine2
+  - first:
+      1: 100084
+    second: Tail
+  - first:
+      1: 100086
+    second: Tail1
+  - first:
+      1: 100088
+    second: Tail2
+  - first:
+      1: 100090
+    second: Tail3
+  - first:
+      1: 100092
+    second: Tail4
+  - first:
+      1: 100094
+    second: Tail5
+  - first:
+      1: 100096
+    second: TailNub
+  - first:
+      1: 100098
+    second: Tiger001
+  - first:
+      1: 100100
+    second: Ear L
+  - first:
+      1: 100102
+    second: Ear R
+  - first:
+      1: 100104
+    second: L Ear
+  - first:
+      1: 100106
+    second: M
+  - first:
+      1: 100108
+    second: R Ear
+  - first:
+      1: 100110
+    second: Root
+  - first:
+      4: 400000
+    second: CG
+  - first:
+      4: 400002
+    second: Eye L
+  - first:
+      4: 400004
+    second: Eye R
+  - first:
+      4: 400006
+    second: //RootNode
+  - first:
+      4: 400008
+    second: Footsteps
+  - first:
+      4: 400010
+    second: Head
+  - first:
+      4: 400012
+    second: HeadNub
+  - first:
+      4: 400014
+    second: Jaw
+  - first:
+      4: 400016
+    second: JawNub
+  - first:
+      4: 400018
+    second: L Calf
+  - first:
+      4: 400020
+    second: L Clavicle
+  - first:
+      4: 400022
+    second: L Finger0
+  - first:
+      4: 400024
+    second: L Finger0Nub
+  - first:
+      4: 400026
+    second: L Foot
+  - first:
+      4: 400028
+    second: L Forearm
+  - first:
+      4: 400030
+    second: L Hand
+  - first:
+      4: 400032
+    second: L HorseLink
+  - first:
+      4: 400034
+    second: L Thigh
+  - first:
+      4: 400036
+    second: L Toe0
+  - first:
+      4: 400038
+    second: L Toe0Nub
+  - first:
+      4: 400040
+    second: L UpperArm
+  - first:
+      4: 400042
+    second: Neck
+  - first:
+      4: 400044
+    second: Pelvis
+  - first:
+      4: 400046
+    second: Ponytail1
+  - first:
+      4: 400048
+    second: Ponytail1Nub
+  - first:
+      4: 400050
+    second: Ponytail2
+  - first:
+      4: 400052
+    second: Ponytail2Nub
+  - first:
+      4: 400054
+    second: R Calf
+  - first:
+      4: 400056
+    second: R Clavicle
+  - first:
+      4: 400058
+    second: R Finger0
+  - first:
+      4: 400060
+    second: R Finger0Nub
+  - first:
+      4: 400062
+    second: R Foot
+  - first:
+      4: 400064
+    second: R Forearm
+  - first:
+      4: 400066
+    second: R Hand
+  - first:
+      4: 400068
+    second: R HorseLink
+  - first:
+      4: 400070
+    second: R Thigh
+  - first:
+      4: 400072
+    second: R Toe0
+  - first:
+      4: 400074
+    second: R Toe0Nub
+  - first:
+      4: 400076
+    second: R UpperArm
+  - first:
+      4: 400078
+    second: Spine
+  - first:
+      4: 400080
+    second: Spine1
+  - first:
+      4: 400082
+    second: Spine2
+  - first:
+      4: 400084
+    second: Tail
+  - first:
+      4: 400086
+    second: Tail1
+  - first:
+      4: 400088
+    second: Tail2
+  - first:
+      4: 400090
+    second: Tail3
+  - first:
+      4: 400092
+    second: Tail4
+  - first:
+      4: 400094
+    second: Tail5
+  - first:
+      4: 400096
+    second: TailNub
+  - first:
+      4: 400098
+    second: Tiger001
+  - first:
+      4: 400100
+    second: Ear L
+  - first:
+      4: 400102
+    second: Ear R
+  - first:
+      4: 400104
+    second: L Ear
+  - first:
+      4: 400106
+    second: M
+  - first:
+      4: 400108
+    second: R Ear
+  - first:
+      4: 400110
+    second: Root
+  - first:
+      43: 4300000
+    second: Tiger001
+  - first:
+      43: 4300002
+    second: M
+  - first:
+      74: 7400000
+    second: C_Trot
+  - first:
+      74: 7400002
+    second: C_Trot_Right
+  - first:
+      74: 7400004
+    second: C_Trot_Left
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Tiger001
+  - first:
+      137: 13700002
+    second: M
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.2
+    animationPositionError: 0.2
+    animationScaleError: 0.2
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C_Trot
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CG
+        weight: 1
+      - path: CG/Pelvis
+        weight: 1
+      - path: CG/Pelvis/Spine
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf/L HorseLink
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf/L HorseLink/L Foot
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf/R HorseLink
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf/R HorseLink/R Foot
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Eye L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Eye R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Jaw
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/L Ear
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/R Ear
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm/L Forearm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm/L Forearm/L
+          Hand
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm/R Forearm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm/R Forearm/R
+          Hand
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1/Tail2
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: M
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 2
+    - serializedVersion: 16
+      name: C_Trot_Right
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 28
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CG
+        weight: 1
+      - path: CG/Pelvis
+        weight: 1
+      - path: CG/Pelvis/Spine
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf/L HorseLink
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf/L HorseLink/L Foot
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf/R HorseLink
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf/R HorseLink/R Foot
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Eye L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Eye R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Jaw
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/L Ear
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/R Ear
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm/L Forearm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm/L Forearm/L
+          Hand
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm/R Forearm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm/R Forearm/R
+          Hand
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1/Tail2
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: M
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: C_Trot_Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 55
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CG
+        weight: 1
+      - path: CG/Pelvis
+        weight: 1
+      - path: CG/Pelvis/Spine
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf/L HorseLink
+        weight: 1
+      - path: CG/Pelvis/Spine/L Thigh/L Calf/L HorseLink/L Foot
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf/R HorseLink
+        weight: 1
+      - path: CG/Pelvis/Spine/R Thigh/R Calf/R HorseLink/R Foot
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Eye L
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Eye R
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/Jaw
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/L Ear
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/Head/R Ear
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm/L Forearm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/L Clavicle/L UpperArm/L Forearm/L
+          Hand
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm/R Forearm
+        weight: 1
+      - path: CG/Pelvis/Spine/Spine1/Spine2/Neck/R Clavicle/R UpperArm/R Forearm/R
+          Hand
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1/Tail2
+        weight: 1
+      - path: CG/Pelvis/Spine/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: M
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: 1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9a5a6e2d8587a644b9b2da5d4940b5e3, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

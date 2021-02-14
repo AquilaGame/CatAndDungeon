@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 9a83535609140da479d8e6595f4d6223
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' Footsteps'
+    100002: ' HeadNub'
+    100004: ' L Finger0'
+    100006: ' L Toe0'
+    100008: ' R Finger0'
+    100010: ' R Toe0'
+    100012: Bear
+    100014: //RootNode
+    100016: Box001
+    100018: CG
+    100020: CG Eye LNub
+    100022: CG Eye RNub
+    100024: CG TailNub
+    100026: EarL
+    100028: EarR
+    100030: Eye L
+    100032: Eye R
+    100034: Head
+    100036: Jaw
+    100038: JawNub
+    100040: L Calf
+    100042: L Clavicle
+    100044: L Finger0Nub
+    100046: L Foot
+    100048: L Forearm
+    100050: L Hand
+    100052: L Thigh
+    100054: L Toe0Nub
+    100056: L UpperArm
+    100058: Neck
+    100060: Pelvis
+    100062: Ponytail1Nub
+    100064: Ponytail2Nub
+    100066: R Calf
+    100068: R Clavicle
+    100070: R Finger0Nub
+    100072: R Foot
+    100074: R Forearm
+    100076: R Hand
+    100078: R Thigh
+    100080: R Toe0Nub
+    100082: R UpperArm
+    100084: Sky001
+    100086: Spine
+    100088: Spine1
+    100090: Spine2
+    100092: Tail
+    100094: Z7A1K4
+    100096: Z7A1K4 1
+    100098: Z7A1K4 10
+    100100: Z7A1K4 11
+    100102: Z7A1K4 12
+    100104: Z7A1K4 13
+    100106: Z7A1K4 14
+    100108: Z7A1K4 15
+    100110: Z7A1K4 16
+    100112: Z7A1K4 17
+    100114: Z7A1K4 18
+    100116: Z7A1K4 19
+    100118: Z7A1K4 2
+    100120: Z7A1K4 20
+    100122: Z7A1K4 21
+    100124: Z7A1K4 22
+    100126: Z7A1K4 23
+    100128: Z7A1K4 3
+    100130: Z7A1K4 4
+    100132: Z7A1K4 5
+    100134: Z7A1K4 6
+    100136: Z7A1K4 7
+    100138: Z7A1K4 8
+    100140: Z7A1K4 9
+    100142: Cheek L
+    100144: Cheek R
+    100146: Tongue
+    100148: Root
+    400000: ' Footsteps'
+    400002: ' HeadNub'
+    400004: ' L Finger0'
+    400006: ' L Toe0'
+    400008: ' R Finger0'
+    400010: ' R Toe0'
+    400012: Bear
+    400014: //RootNode
+    400016: Box001
+    400018: CG
+    400020: CG Eye LNub
+    400022: CG Eye RNub
+    400024: CG TailNub
+    400026: EarL
+    400028: EarR
+    400030: Eye L
+    400032: Eye R
+    400034: Head
+    400036: Jaw
+    400038: JawNub
+    400040: L Calf
+    400042: L Clavicle
+    400044: L Finger0Nub
+    400046: L Foot
+    400048: L Forearm
+    400050: L Hand
+    400052: L Thigh
+    400054: L Toe0Nub
+    400056: L UpperArm
+    400058: Neck
+    400060: Pelvis
+    400062: Ponytail1Nub
+    400064: Ponytail2Nub
+    400066: R Calf
+    400068: R Clavicle
+    400070: R Finger0Nub
+    400072: R Foot
+    400074: R Forearm
+    400076: R Hand
+    400078: R Thigh
+    400080: R Toe0Nub
+    400082: R UpperArm
+    400084: Sky001
+    400086: Spine
+    400088: Spine1
+    400090: Spine2
+    400092: Tail
+    400094: Z7A1K4
+    400096: Z7A1K4 1
+    400098: Z7A1K4 10
+    400100: Z7A1K4 11
+    400102: Z7A1K4 12
+    400104: Z7A1K4 13
+    400106: Z7A1K4 14
+    400108: Z7A1K4 15
+    400110: Z7A1K4 16
+    400112: Z7A1K4 17
+    400114: Z7A1K4 18
+    400116: Z7A1K4 19
+    400118: Z7A1K4 2
+    400120: Z7A1K4 20
+    400122: Z7A1K4 21
+    400124: Z7A1K4 22
+    400126: Z7A1K4 23
+    400128: Z7A1K4 3
+    400130: Z7A1K4 4
+    400132: Z7A1K4 5
+    400134: Z7A1K4 6
+    400136: Z7A1K4 7
+    400138: Z7A1K4 8
+    400140: Z7A1K4 9
+    400142: Cheek L
+    400144: Cheek R
+    400146: Tongue
+    400148: Root
+    2100000: ColorDark1
+    2100002: ColorDark
+    2100004: Color
+    2100006: ColorLight
+    2100008: Mouth
+    2100010: Nose
+    2100012: Thieth
+    2100014: Eyes
+    2100016: No Name
+    2300000: Box001
+    3300000: Box001
+    4300000: Bear
+    4300002: Box001
+    7400000: Be_Run
+    7400002: Be_Run Left
+    7400004: Be_Run Right
+    7400006: Be_Run_IP
+    9500000: //RootNode
+    10800000: Sky001
+    13700000: Bear
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.25
+    animationPositionError: 0.25
+    animationScaleError: 0.25
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Be_Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Be_Run Right
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 5
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Be_Run Left
+      takeName: Take 001
+      firstFrame: 56
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: -5
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Be_Run_IP
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 95788e7260b93224e9cfd19cc653a6bc,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

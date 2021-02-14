@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 59dc7eb140be69548819cbbdef4c5a29
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CG
+    100004: Eye L
+    100006: Eye R
+    100008: Fangs 001
+    100010: Fangs 002
+    100012: Fangs 003
+    100014: Fangs 004
+    100016: Fangs 005
+    100018: Fangs 006
+    100020: Head
+    100022: Jaw
+    100024: L Calf
+    100026: L Clavicle
+    100028: L Ear
+    100030: L Finger0
+    100032: L Foot
+    100034: L Forearm
+    100036: L Hand
+    100038: L HorseLink
+    100040: L Thigh
+    100042: L Toe0
+    100044: L UpperArm
+    100046: Neck
+    100048: Pelvis
+    100050: Poly Art Boar
+    100052: R Calf
+    100054: R Clavicle
+    100056: R Ear
+    100058: R Finger0
+    100060: R Foot
+    100062: R Forearm
+    100064: R Hand
+    100066: R HorseLink
+    100068: R Thigh
+    100070: R Toe0
+    100072: R UpperArm
+    100074: Spine
+    100076: Spine1
+    100078: Spine2
+    100080: Tail01
+    100082: Tail02
+    100084: Tail03
+    100086: ' Footsteps'
+    100088: ' JawNub'
+    100090: CG L Toe01
+    100092: CG R Toe01
+    100094: CG TailNub
+    100096: HeadNub
+    100098: L Finger0Nub
+    100100: L Toe0Nub
+    100102: Magic
+    100104: Ponytail1Nub
+    100106: Ponytail2Nub
+    100108: R Finger0Nub
+    100110: R Toe0Nub
+    400000: //RootNode
+    400002: CG
+    400004: Eye L
+    400006: Eye R
+    400008: Fangs 001
+    400010: Fangs 002
+    400012: Fangs 003
+    400014: Fangs 004
+    400016: Fangs 005
+    400018: Fangs 006
+    400020: Head
+    400022: Jaw
+    400024: L Calf
+    400026: L Clavicle
+    400028: L Ear
+    400030: L Finger0
+    400032: L Foot
+    400034: L Forearm
+    400036: L Hand
+    400038: L HorseLink
+    400040: L Thigh
+    400042: L Toe0
+    400044: L UpperArm
+    400046: Neck
+    400048: Pelvis
+    400050: Poly Art Boar
+    400052: R Calf
+    400054: R Clavicle
+    400056: R Ear
+    400058: R Finger0
+    400060: R Foot
+    400062: R Forearm
+    400064: R Hand
+    400066: R HorseLink
+    400068: R Thigh
+    400070: R Toe0
+    400072: R UpperArm
+    400074: Spine
+    400076: Spine1
+    400078: Spine2
+    400080: Tail01
+    400082: Tail02
+    400084: Tail03
+    400086: ' Footsteps'
+    400088: ' JawNub'
+    400090: CG L Toe01
+    400092: CG R Toe01
+    400094: CG TailNub
+    400096: HeadNub
+    400098: L Finger0Nub
+    400100: L Toe0Nub
+    400102: Magic
+    400104: Ponytail1Nub
+    400106: Ponytail2Nub
+    400108: R Finger0Nub
+    400110: R Toe0Nub
+    2300000: Fangs 001
+    2300002: Fangs 002
+    2300004: Fangs 003
+    2300006: Fangs 004
+    2300008: Fangs 005
+    2300010: Fangs 006
+    3300000: Fangs 001
+    3300002: Fangs 002
+    3300004: Fangs 003
+    3300006: Fangs 004
+    3300008: Fangs 005
+    3300010: Fangs 006
+    4300000: Fangs 002
+    4300002: Fangs 001
+    4300004: Fangs 003
+    4300006: Fangs 004
+    4300008: Fangs 005
+    4300010: Fangs 006
+    4300012: Poly Art Boar
+    4300014: Magic
+    9500000: //RootNode
+    13700000: Poly Art Boar
+    13700002: Fangs 001
+    13700004: Fangs 003
+    13700006: Fangs 004
+    13700008: Fangs 005
+    13700010: Fangs 006
+    13700012: Magic
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
