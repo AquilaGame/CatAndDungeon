@@ -52,14 +52,14 @@
     <UnityVersion>2020.1.9f1c1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshPrefabInstance.cs" />
-    <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
+    <Compile Include="Assets\Record(ImportedAssests)\NavMeshComponents\Scripts\NavMeshModifier.cs" />
+    <Compile Include="Assets\Record(ImportedAssests)\NavMeshComponents\Scripts\NavMeshLink.cs" />
+    <Compile Include="Assets\Record(ImportedAssests)\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
+    <Compile Include="Assets\Record(ImportedAssests)\NavMeshComponents\Scripts\NavMeshPrefabInstance.cs" />
+    <Compile Include="Assets\Record(ImportedAssests)\NavMeshComponents\Scripts\NavMeshSurface.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\NavMeshComponents\Scripts\NavMeshComponents.asmdef" />
+     <None Include="Assets\Record(ImportedAssests)\NavMeshComponents\Scripts\NavMeshComponents.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>G:\Unity\2020.1.9f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

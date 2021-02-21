@@ -1,78 +1,27 @@
-2021/2/11 14:05:07|:   光标库连接成功
-2021/2/11 14:05:07|:   地图活动对象库建立连接
-2021/2/11 14:05:07|:   地图素材库建立连接
-2021/2/11 14:05:07|:   Buff库建立连接
-2021/2/11 14:05:07|:   法术素材库建立连接
-2021/2/11 14:05:07|:   角色库建立完成
-2021/2/11 14:05:07|:   场景管理器就位
-2021/2/11 14:05:07|:   小地图功能已注册
-2021/2/11 14:05:07|:   召唤物库已建立连接
-2021/2/11 14:05:07|:   主摄像机就位
-2021/2/11 14:05:07|:   音频控制器已连接
-2021/2/11 14:05:07|:   外部法术数据读取结束
-2021/2/11 14:05:07|:   图块创建器初始化:8号地图
-2021/2/11 14:05:08|:   图块创建器初始化:4号地图
-2021/2/11 14:05:08|:   图块创建器初始化:9号地图
-2021/2/11 14:05:08|:   图块创建器初始化:3号地图
-2021/2/11 14:05:08|:   图块创建器初始化:6号地图
-2021/2/11 14:05:08|:   图块创建器初始化:5号地图
-2021/2/11 14:05:09|:   图块创建器初始化:1号地图
-2021/2/11 14:05:09|:   图块创建器初始化:2号地图
-2021/2/11 14:05:09|:   图块创建器初始化:7号地图
-2021/2/11 14:05:09|:   地图切换到:1号地图
-2021/2/11 14:07:12|:   报告窗口已建立连接
-2021/2/11 14:07:12|:   用户按钮区就位
-2021/2/11 14:07:12|:   属性面板建立连接
-2021/2/11 14:08:51|:   <color=#CC44EE>[学习法术]: </color><color=Orange>[帝国术士(男)]</color>向法术书里记录了一项名为<color=#77CCCC>[精神冲击]</color>的法术。
-2021/2/11 14:09:07|:   <color=#CC44EE>[学习法术]: </color><color=Orange>[帝国术士(男)]</color>向法术书里记录了一项名为<color=#77CCCC>[次元召唤]</color>的法术。
-2021/2/11 14:09:15|:   <color=#CC44EE>[学习法术]: </color><color=Orange>[帝国术士(男)]</color>向法术书里记录了一项名为<color=#77CCCC>[召唤亡灵]</color>的法术。
-2021/2/11 14:09:59|:   <color=#CC44EE>[学习法术]: </color><color=Orange>[帝国术士(男)]</color>向法术书里记录了一项名为<color=#77CCCC>[凋零射线]</color>的法术。
-2021/2/11 14:10:08|:   <color=#CC44EE>[学习法术]: </color><color=Orange>[教会牧师(女)]</color>向法术书里记录了一项名为<color=#77CCCC>[治愈术]</color>的法术。
-2021/2/11 14:10:21|:   <color=#CC44EE>[学习法术]: </color><color=Orange>[教会牧师(女)]</color>向法术书里记录了一项名为<color=#77CCCC>[防护邪恶]</color>的法术。
-2021/2/11 14:10:26|:   <color=#55FFAA>[行动]: </color><color=Orange>[教会牧师(女)]</color>使用了技能<color=Yellow>[防护邪恶]</color>
-2021/2/11 14:10:26|:   <color=#7CC0D2>[教会牧师(女)]</color>获得了状态:<color=#F16B08>【防护邪恶】</color>
-2021/2/11 14:10:40|:   <color=#CC44EE>[受到伤害]: </color><color=#33FF33>[城镇圣骑士(女)]</color>受到了<color=#FF1111><b>6</b></color>点伤害。
-2021/2/11 14:11:38|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国游荡者(女)#1]</color>的先攻检定结果为:<color=#FF88FF><b>6</b></color>点。
-2021/2/11 14:11:40|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国术士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>6</b></color>点。
-2021/2/11 14:11:41|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇萨满(男)]</color>的先攻检定结果为:<color=#FF88FF><b>3</b></color>点。
-2021/2/11 14:11:43|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇圣骑士(女)]</color>的先攻检定结果为:<color=#FF88FF><b>2</b></color>点。
-2021/2/11 14:11:44|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国黑骑士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>16</b></color>点。
-2021/2/11 14:11:46|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[教会牧师(女)]</color>的先攻检定结果为:<color=#FF88FF><b>5</b></color>点。
-2021/2/11 14:12:48|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国游荡者(女)#1]</color>的先攻检定结果为:<color=#FF88FF><b>9</b></color>点。
-2021/2/11 14:12:50|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国术士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>5</b></color>点。
-2021/2/11 14:12:51|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇萨满(男)]</color>的先攻检定结果为:<color=#FF88FF><b>2</b></color>点。
-2021/2/11 14:12:52|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇圣骑士(女)]</color>的先攻检定结果为:<color=#FF88FF><b>9</b></color>点。
-2021/2/11 14:12:54|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国黑骑士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>3</b></color>点。
-2021/2/11 14:12:56|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[教会牧师(女)]</color>的先攻检定结果为:<color=#FF88FF><b>4</b></color>点。
-2021/2/11 14:13:07|:   <color=#55FFAA>[行动]: </color><color=Orange>[帝国游荡者(女)#1]</color>使用了技能<color=Yellow>[暗影突袭]</color>
-2021/2/11 14:13:25|:   <color=#CC44EE>[攻击结算]: </color><color=Orange>[帝国游荡者(女)#1]</color>攻击了<color=Red>[城镇萨满(男)]</color>，造成了<color=#FF1111><b>15</b></color>点伤害。
-2021/2/11 14:14:40|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国游荡者(女)#1]</color>的先攻检定结果为:<color=#FF88FF><b>7</b></color>点。
-2021/2/11 14:14:41|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国术士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>1</b></color>点。
-2021/2/11 14:14:43|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇萨满(男)]</color>的先攻检定结果为:<color=#FF88FF><b>2</b></color>点。
-2021/2/11 14:14:44|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇圣骑士(女)]</color>的先攻检定结果为:<color=#FF88FF><b>13</b></color>点。
-2021/2/11 14:14:46|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国黑骑士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>14</b></color>点。
-2021/2/11 14:14:47|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[教会牧师(女)]</color>的先攻检定结果为:<color=#FF88FF><b>3</b></color>点。
-2021/2/11 14:14:55|:   <color=#55FFAA>[行动]: </color><color=Orange>[帝国黑骑士(男)]</color>使用了技能<color=Yellow>[灵魂链接]</color>
-2021/2/11 14:14:57|:   <color=#CC44EE>[命中骰结果]: </color><color=Orange>[帝国黑骑士(男)]</color>对<color=Yellow>[教会牧师(女)]</color>使用的技能的命中骰结果为:<color=#FF88FF><b>-2</b></color>
-2021/2/11 14:14:59|:   <color=#CC44EE>[命中骰结果]: </color><color=Orange>[帝国黑骑士(男)]</color>对<color=Yellow>[城镇圣骑士(女)]</color>使用的技能的命中骰结果为:<color=#FF88FF><b>-5</b></color>
-2021/2/11 14:15:44|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国游荡者(女)#1]</color>的先攻检定结果为:<color=#FF88FF><b>18</b></color>点。
-2021/2/11 14:15:46|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国术士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>2</b></color>点。
-2021/2/11 14:15:47|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇萨满(男)]</color>的先攻检定结果为:<color=#FF88FF><b>4</b></color>点。
-2021/2/11 14:15:49|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[城镇圣骑士(女)]</color>的先攻检定结果为:<color=#FF88FF><b>10</b></color>点。
-2021/2/11 14:15:50|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[帝国黑骑士(男)]</color>的先攻检定结果为:<color=#FF88FF><b>3</b></color>点。
-2021/2/11 14:15:52|:   <color=#CC44EE>[先攻检定]: </color><color=Yellow>[教会牧师(女)]</color>的先攻检定结果为:<color=#FF88FF><b>6</b></color>点。
-2021/2/11 14:16:04|:   <color=#55FFAA>[行动]: </color><color=Orange>[帝国游荡者(女)#1]</color>使用了技能<color=Yellow>[暗影突袭]</color>
-2021/2/11 14:16:07|:   <color=#CC44EE>[数值骰结果]: </color><color=Orange>[帝国游荡者(女)#1]</color>对<color=Yellow>[城镇萨满(男)]</color>使用的技能的数值骰结果为:<color=#FF88FF><b>30</b></color>
-2021/2/11 14:16:07|:   <color=#CC44EE>[技能结算]: </color><color=Orange>[帝国游荡者(女)#1]</color>的技能<color=Yellow>[暗影突袭]</color>对<color=#FF4444>[城镇萨满(男)]</color>造成了<color=#FF1111><b>30</b></color>点伤害。
-2021/2/11 14:16:25|:   <color=#CC44EE>[攻击结算]: </color><color=Orange>[城镇圣骑士(女)]</color>攻击了<color=Red>[帝国黑骑士(男)]</color>，但攻击没有命中
-2021/2/11 14:16:39|:   <color=#55FFAA>[行动]: </color><color=Orange>[教会牧师(女)]</color>使用了技能<color=Yellow>[治愈术]</color>
-2021/2/11 14:16:41|:   <color=#CC44EE>[数值骰结果]: </color><color=Orange>[教会牧师(女)]</color>对<color=Yellow>[城镇圣骑士(女)]</color>使用的技能的数值骰结果为:<color=#FF88FF><b>21</b></color>点。
-2021/2/11 14:16:41|:   <color=#CC44EE>[技能结算]: </color><color=#33FF33>[城镇圣骑士(女)]</color>受到了来自<color=Orange>[教会牧师(女)]</color>的技能<color=Yellow>[治愈术]</color>的<color=#99FF99><b>21</b></color>点治疗。
-2021/2/11 14:16:52|:   <color=#55FFAA>[行动]: </color><color=Orange>[帝国黑骑士(男)]</color>使用了技能<color=Yellow>[灵魂链接]</color>
-2021/2/11 14:16:54|:   <color=#CC44EE>[命中骰结果]: </color><color=Orange>[帝国黑骑士(男)]</color>对<color=Yellow>[教会牧师(女)]</color>使用的技能的命中骰结果为:<color=#FF88FF><b>-2</b></color>
-2021/2/11 14:16:56|:   <color=#CC44EE>[命中骰结果]: </color><color=Orange>[帝国黑骑士(男)]</color>对<color=Yellow>[城镇圣骑士(女)]</color>使用的技能的命中骰结果为:<color=#FF88FF><b>2</b></color>
-2021/2/11 14:16:56|:   <color=#7CC0D2>[城镇圣骑士(女)]</color>获得了状态:<color=#F16B08>【灵魂链接】</color>
-2021/2/11 14:17:02|:   <color=#CC44EE>[攻击结算]: </color><color=Orange>[帝国黑骑士(男)]</color>攻击了<color=Red>[城镇圣骑士(女)]</color>，但攻击没有命中
-2021/2/11 14:17:09|:   <color=#55FFAA>[行动]: </color><color=Orange>[帝国术士(男)]</color>使用了技能<color=Yellow>[召唤亡灵]</color>
-2021/2/11 14:17:10|:   <color=#CC44EE>[数值骰结果]: </color><color=Orange>[帝国术士(男)]</color>对<color=Yellow>[帝国术士(男)]</color>使用的技能的数值骰结果为:<color=#FF88FF><b>3</b></color>点。
-2021/2/11 14:17:11|:   <color=#55FFAA>[召唤法术]: </color><color=Orange>[帝国术士(男)]</color>召唤了一只<color=Yellow>[亡骨士兵#1]</color>。
+2021/2/21 21:14:07|:   光标库连接成功
+2021/2/21 21:14:07|:   地图活动对象库建立连接
+2021/2/21 21:14:07|:   地图素材库建立连接
+2021/2/21 21:14:07|:   Buff库建立连接
+2021/2/21 21:14:07|:   法术素材库建立连接
+2021/2/21 21:14:07|:   角色库建立完成
+2021/2/21 21:14:07|:   场景管理器就位
+2021/2/21 21:14:07|:   小地图功能已注册
+2021/2/21 21:14:07|:   召唤物库已建立连接
+2021/2/21 21:14:07|:   主摄像机就位
+2021/2/21 21:14:07|:   音频控制器已连接
+2021/2/21 21:14:07|:   外部法术数据读取结束
+2021/2/21 21:14:08|:   图块创建器初始化:8号地图
+2021/2/21 21:14:08|:   图块创建器初始化:4号地图
+2021/2/21 21:14:08|:   图块创建器初始化:9号地图
+2021/2/21 21:14:08|:   图块创建器初始化:3号地图
+2021/2/21 21:14:08|:   图块创建器初始化:6号地图
+2021/2/21 21:14:09|:   图块创建器初始化:5号地图
+2021/2/21 21:14:09|:   图块创建器初始化:1号地图
+2021/2/21 21:14:10|:   图块创建器初始化:2号地图
+2021/2/21 21:14:10|:   图块创建器初始化:7号地图
+2021/2/21 21:14:10|:   地图切换到:1号地图
+2021/2/21 21:14:19|:   报告窗口已建立连接
+2021/2/21 21:14:19|:   用户按钮区就位
+2021/2/21 21:14:19|:   属性面板建立连接
+2021/2/21 21:14:30|:   <color=#55FFAA>[行动]: </color><color=Orange>[劫掠者#1]</color>使用了技能<color=Yellow>[暗影穿行]</color>
+2021/2/21 21:14:30|:   <color=#7CC0D2>[劫掠者#1]</color>获得了状态:<color=#F16B08>【潜行】</color>
