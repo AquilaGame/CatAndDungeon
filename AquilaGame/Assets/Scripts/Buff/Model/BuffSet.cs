@@ -1,17 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public interface BuffBhv
-{
-    string Info();
-    void OnBuffAdd();
-    void OnRoundStart();
-    void OnRoundEnd();
-    void OnBuffRemove();
-}
-
-
-public abstract class Buff : BuffBhv
+public abstract class Buff
 {
     public string Name;
     public int index;
